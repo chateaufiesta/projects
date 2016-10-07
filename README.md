@@ -35,7 +35,7 @@ To participate, you have to __register__ your project following the instructions
  * At this moment, a __number__ will be given to your team. During the merge, a __comment will be written with your team number__ and the file will be renamed to __"XXX-project_name.md"__, where "XXX" will be your number. 
  * __This number should be used to identify your project with the jury__. 
 
-These instructions are mandatory, and they should be done as soon as you enter Pixels Camp. __The deadline is on the second day (Oct 7th) until 2 pm.__
+These instructions are mandatory, and they should be done as soon as you enter Pixels Camp. __The deadline is on the second day (Oct 7th) until 3 pm.__
 
 Here's an example of what a project file [should look like][4].
 
